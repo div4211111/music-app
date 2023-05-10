@@ -1,0 +1,114 @@
+[
+  {
+    "id": 6803392,
+    "showId": 1683717994,
+    "userId": 100,
+    "seatCount": 348,
+    "type": "purchase"
+  },
+  {
+    "id": 7406545,
+    "showId": 1683804394,
+    "userId": 100,
+    "seatCount": 347,
+    "type": "purchase"
+  },
+  {
+    "id": 5911564,
+    "showId": 1683890794,
+    "userId": 100,
+    "seatCount": 1,
+    "type": "purchase"
+  },
+  {
+    "id": 5608916,
+    "showId": 1683977194,
+    "userId": 100,
+    "seatCount": 295,
+    "type": "purchase"
+  },
+  {
+    "id": 6295045,
+    "showId": 1684063594,
+    "userId": 100,
+    "seatCount": 341,
+    "type": "purchase"
+  },
+  {
+    "id": 9018670,
+    "showId": 1684149994,
+    "userId": 100,
+    "seatCount": 284,
+    "type": "purchase"
+  },
+  {
+    "id": 5006345,
+    "showId": 1684236394,
+    "userId": 100,
+    "seatCount": 233,
+    "type": "purchase"
+  },
+  {
+    "id": 6836296,
+    "showId": 1684322794,
+    "userId": 100,
+    "seatCount": 126,
+    "type": "purchase"
+  },
+  {
+    "id": 8515079,
+    "showId": 1684409194,
+    "userId": 100,
+    "seatCount": 207,
+    "type": "purchase"
+  },
+  {
+    "id": 8753277,
+    "showId": 1684495594,
+    "userId": 100,
+    "seatCount": 380,
+    "type": "purchase"
+  },
+  {
+    "id": 6386249,
+    "showId": 1684581994,
+    "userId": 100,
+    "seatCount": 206,
+    "type": "purchase"
+  },
+  {
+    "id": 712685,
+    "showId": 1684668394,
+    "userId": 100,
+    "seatCount": 328,
+    "type": "purchase"
+  },
+  {
+    "id": 1265281,
+    "showId": 1684754794,
+    "userId": 100,
+    "seatCount": 394,
+    "type": "purchase"
+  },
+  {
+    "id": 1369490,
+    "showId": 1684841194,
+    "userId": 100,
+    "seatCount": 182,
+    "type": "purchase"
+  },
+  {
+    "id": null,
+    "showId": 1683804394,
+    "userId": 1,
+    "seatCount": 8,
+    "type": "hold"
+  },
+  {
+    "id": null,
+    "showId": 1684149994,
+    "userId": 1,
+    "seatCount": 8,
+    "type": "hold"
+  }
+]

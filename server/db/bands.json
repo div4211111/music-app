@@ -1,0 +1,142 @@
+[
+  {
+    "id": 11486,
+    "name": "The Cabbage Collective",
+    "description": "blistering world music with  classic love songs",
+    "image": {
+      "fileName": "band4.jpg",
+      "authorName": "Filip Mishevski",
+      "authorLink": "https://unsplash.com/@filipthedesigner"
+    }
+  },
+  {
+    "id": 85283,
+    "name": "Rosie And The Tomcats",
+    "description": "adventurous reggae with a hard-driving mood",
+    "image": {
+      "fileName": "band8.jpg",
+      "authorName": "Anton Mislawsky",
+      "authorLink": "https://unsplash.com/@antonmislawsky"
+    }
+  },
+  {
+    "id": 81400,
+    "name": "Six Bears Running",
+    "description": "moody electronica with  unpredictable instrument choices",
+    "image": {
+      "fileName": "band1.jpg",
+      "authorName": "Caleb George",
+      "authorLink": "https://unsplash.com/@seemoris"
+    }
+  },
+  {
+    "id": 57755,
+    "name": "The Butter Wafers",
+    "description": "inspiring a capella with a playful musical saw",
+    "image": {
+      "fileName": "band11.jpg",
+      "authorName": "Saksham Gangwar",
+      "authorLink": "https://unsplash.com/@saksham"
+    }
+  },
+  {
+    "id": 67413,
+    "name": "Mirrors and Pearls",
+    "description": "ethereal country with  brilliant guitar solos",
+    "image": {
+      "fileName": "band5.jpg",
+      "authorName": "Joshua Fuller",
+      "authorLink": "https://unsplash.com/@joshuafuller"
+    }
+  },
+  {
+    "id": 90376,
+    "name": "The Wandering Bunnies",
+    "description": "hilarious rock with  smooth costumes",
+    "image": {
+      "fileName": "band6.jpg",
+      "authorName": "Museums Victoria",
+      "authorLink": "https://unsplash.com/@museumsvictoria"
+    }
+  },
+  {
+    "id": 6050,
+    "name": "Shamrock Pete",
+    "description": "improvisational hip-hop with a raucous vibe",
+    "image": {
+      "fileName": "band13.jpg",
+      "authorName": "Chang Duong",
+      "authorLink": "https://unsplash.com/@iamchang"
+    }
+  },
+  {
+    "id": 42782,
+    "name": "Gus and Moxie",
+    "description": "eclectic americana with  sublime harmonies",
+    "image": {
+      "fileName": "band9.jpg",
+      "authorName": "Chang Duong",
+      "authorLink": "https://unsplash.com/@iamchang"
+    }
+  },
+  {
+    "id": 94606,
+    "name": "The Jealous Motorcycle Reformatory",
+    "description": "fusion electronica with  masterful dance numbers",
+    "image": {
+      "fileName": "band18.jpg",
+      "authorName": "Michael Henry",
+      "authorLink": "https://unsplash.com/@michaelhenry"
+    }
+  },
+  {
+    "id": 43233,
+    "name": "Ocean of Ink",
+    "description": "feline bluegrass with a surprising edge",
+    "image": {
+      "fileName": "band14.jpg",
+      "authorName": "Kate Kalvach",
+      "authorLink": "https://unsplash.com/@katekalvach"
+    }
+  },
+  {
+    "id": 84070,
+    "name": "Revolving Puddle Jumpers",
+    "description": "dreamy world music with a serious bass player",
+    "image": {
+      "fileName": "band7.jpg",
+      "authorName": "Dominik Vanyi",
+      "authorLink": "https://unsplash.com/@dominik_photography"
+    }
+  },
+  {
+    "id": 73881,
+    "name": "The Ugly Muffin",
+    "description": "iconic pop with a digital beat",
+    "image": {
+      "fileName": "band17.jpg",
+      "authorName": "Zachary Nelson",
+      "authorLink": "https://unsplash.com/@zacharytnelson"
+    }
+  },
+  {
+    "id": 6031,
+    "name": "Pickle Bits",
+    "description": "big funk with an unbelievable sound",
+    "image": {
+      "fileName": "band15.jpg",
+      "authorName": "Adina Voicu",
+      "authorLink": "https://pixabay.com/users/adinavoicu-485024/"
+    }
+  },
+  {
+    "id": 9955,
+    "name": "Frodo And The Lettuces",
+    "description": "ear-shattering a capella with a soulful water glass orchestra",
+    "image": {
+      "fileName": "band3.jpg",
+      "authorName": "Anthony da Cruz",
+      "authorLink": "https://unsplash.com/@akhu"
+    }
+  }
+]
